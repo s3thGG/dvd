@@ -4,9 +4,9 @@
 // License: MIT
 // Edit: s3thGG
 (function() {
-  var ASSET = "https://cdn.jsdelivr.net/gh/s3thGG/TEST-REPO--BY-s3thGG-/dvdicon.png";
-  var WIDTH = 256;
-  var HEIGHT = 256;
+  var ASSET = "https://cdn.jsdelivr.net/gh/s3thGG/TEST-REPO--BY-s3thGG-/dvdicon1.png";
+  var WIDTH = 269;
+  var HEIGHT = 160;
   var VERT_DIRECTIONS = ["up", "down"];
   var HORI_DIRECTIONS = ["left", "right"];
   var SCROLL_AMOUNTS = [6, 8, 11, 15];
